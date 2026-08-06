@@ -1,0 +1,5 @@
+# COMPANY POLICIES
+1. Refunds: We offer a 30-day money-back guarantee for all software purchases. To get a refund, customers must provide their order ID.
+2. Support Hours: Our technical support team is available Monday through Friday, 9 AM to 5 PM EST.
+3. Upgrades: All premium users get free upgrades to the next major version of the software. Basic users must pay a $15 upgrade fee.
+4. Security: We do not store plain-text passwords. If a user loses their password, they must use the self-service reset portal on our website. Our agents cannot reset passwords manually.
